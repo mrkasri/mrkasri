@@ -1,4 +1,4 @@
 
 
-# Hi, I'm Mohammed KASRI :simple: :computer:
+# Hi, I'm Mohammed KASRI :computer:
  
