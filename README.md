@@ -12,4 +12,4 @@
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mrkasri&show_icons=true&theme=material-palenight" alt="mrkasri" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mrkasri&show_icons=true&theme=graywhite" alt="mrkasri" />
