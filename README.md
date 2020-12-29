@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mrkasri&show_icons=true&theme=ayu-mirage" alt="mrkasri" />
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/mrkasri/github-readme-stats">
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkasri&layout=compact&theme=ayu-mirage" />
 </a>
