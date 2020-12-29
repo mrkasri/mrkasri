@@ -16,5 +16,5 @@
  
  <a href="https://github.com/mrkasri/github-readme-stats">
   
-  <img align="left" src="https://github-readme-stats.mrkasri.vercel.app/api/top-langs/?username=mrkasri&layout=compact&theme=ayu-mirage" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkasri&layout=compact&theme=ayu-mirage" />
 </a>
