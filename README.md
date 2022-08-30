@@ -14,3 +14,4 @@
 <p align="left"> 
  <img src="https://github-readme-stats.vercel.app/api?username=mrkasri&show_icons=true&theme=ayu-mirage" alt="mrkasri" />
  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkasri&layout=compact&langs_count=8"/>
