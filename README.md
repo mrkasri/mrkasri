@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Mohammed KASRI :computer: PhD from :morocco: .
+# Hi, I'm Mohammed KASRI :morocco: .
 
 
  
